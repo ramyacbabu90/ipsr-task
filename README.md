@@ -13,5 +13,10 @@ This is a Simple laravel application for Chat gpt integration for dynamic questi
 - Run php artisan migrate
 - Run the project using php artisan serve.
 
+- Two menus avilable Send Request and Question bank
+- In request form put syllabus and select type of question
+- up on submitting the form, it will shows the generated questions and and option button to add the questions in to the database.
+- You can view the added questions under the question bank menu. 
+
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
